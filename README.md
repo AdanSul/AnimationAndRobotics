@@ -13,7 +13,7 @@ Welcome to the **Animation and Robotics** repository! This repository contains a
 - 📜 **README.md** – Explains the assignment requirements.  
 - 📝 **report.md** – Documents the solution and findings.  
 - 🖥️ **assignment.py** – The main Python implementation for the assignment.  
-- 📸 **screenshots/** – Contains all images used in the report for explanations.  
+- 📸 **screenshots** – Contains all images used in the report for explanations.  
 
 
 ## Assignments Overview   
