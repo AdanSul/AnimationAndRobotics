@@ -8,7 +8,7 @@ Welcome to the **Animation and Robotics** repository! This repository contains a
 - [Assignment 3: Kinematics](#assignment-3-kinematics)  
 - [Assignment 4: Path Planning with RRT](#assignment-4-path-planning-with-rrt)
 
-### Each assignment folder contains:  
+## Each assignment folder contains:  
 - **README.md** – Explains the assignment requirements.  
 - **report.md** – Documents the solution and findings.  
 - **assignment.py** – The main Python implementation for the assignment.  
