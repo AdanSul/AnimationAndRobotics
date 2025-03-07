@@ -6,7 +6,13 @@ Welcome to the **Animation and Robotics** repository! This repository contains a
 - [Assignment 1: Optimization and Visualization Basics](#assignment-1-optimization-and-visualization-basics)  
 - [Assignment 2: Deformation (Mass-Spring Systems)](#assignment-2-deformation-mass-spring-systems)  
 - [Assignment 3: Kinematics](#assignment-3-kinematics)  
-- [Assignment 4: Path Planning with RRT](#assignment-4-path-planning-with-rrt)  
+- [Assignment 4: Path Planning with RRT](#assignment-4-path-planning-with-rrt)
+
+### Each assignment folder contains:  
+- **README.md** – Explains the assignment requirements.  
+- **report.md** – Documents the solution and findings.  
+- **assignment.py** – The main Python implementation for the assignment.  
+- **screenshots/** – Contains all images used in the report for explanations.  
 
 ## Assignments Overview  
 
