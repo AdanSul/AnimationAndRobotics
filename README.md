@@ -29,3 +29,4 @@ Develops a **2D robotic arm simulator** with **inverse kinematics (IK)**. Implem
 
 ### Assignment 4: Path Planning with RRT  
 Implements the **Rapidly-exploring Random Tree (RRT)** algorithm for **pathfinding in obstacle environments**. Builds an interactive GUI for defining obstacles, setting waypoints, and visualizing real-time tree expansion. Evaluates **collision detection, performance tuning, and path extraction**.  
+
